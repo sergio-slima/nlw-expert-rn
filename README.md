@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="./assets/images/icon.png" alt="Print Tela" />
-  App Delivery 🍔
+  <img src="./assets/images/icon.png" alt="Print Tela" height="50" width="50" />
+  Orders 🍔
 </h1>
 
 #### Essa aplicação mobile, desenvolvida junto com a 🚀Rocketseat no evento NLW de 2024, tem o objetivo de fazer um pedido de um lanche, adicionando no carrinho e enviando para o Whatsapp do estabelicimento.
@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./assets/images/Thumbnail.png" alt="Print Tela" height="500" width="800">
+  <img src="./assets/images/Thumbnail.png" alt="Print Tela" height="1080" width="1920" />
 </h1>
 
 
