@@ -27,6 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - 📝 [React-Native](https://reactnative.dev/)
 - 🔌 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+- 🈴 [Tailwindcss](https://tailwindcss.com/)
 
 
 
