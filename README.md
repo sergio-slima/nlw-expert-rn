@@ -11,8 +11,8 @@
 [![PRs Welcome](https://img.shields.io/badge/contribuition-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 <p align="center">
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#implementacoes">Implementações</a> • 
+ <a href="#tecnologias-">Tecnologias</a> •
+ <a href="#implementacoes-">Implementações</a> • 
  <a href="#autor">Autor</a>
 </p>
 
